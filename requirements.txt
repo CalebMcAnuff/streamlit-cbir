@@ -1,0 +1,8 @@
+pandas
+pillow
+h5py
+numpy
+scipy
+torch
+torchvision
+
